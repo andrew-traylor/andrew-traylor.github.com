@@ -1,1 +1,2 @@
-console.log('This would be the main JS file.');
+var myHeading = document.querySelector('h1');
+myHeading.innerHTML = 'Hello world!';
